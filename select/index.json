@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "DOSHABURI [Remix]",
+  "base_artist": "kZm",
+  "createdAt": "2026-01-04T12:03:07.287227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DOSHABURI - Remix",
+      "artist": "kZm, JUMADIBA, Ralph",
+      "has_synced": true,
+      "path": "select/01_DOSHABURI_-_Remix_kZm,_JUMADIBA,_Ralph.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOSHABURI Remix feat. JUMADIBA & ralph",
+      "artist": "kZm",
+      "has_synced": false,
+      "path": "select/pl_01_DOSHABURI_Remix_feat._JUMADIBA_&_ralph_kZm.txt"
+    }
+  ]
+}
